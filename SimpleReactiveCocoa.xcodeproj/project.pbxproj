@@ -21,6 +21,7 @@
 		4C42EB0220B40900004FED49 /* LoginResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C42EB0120B40900004FED49 /* LoginResultViewController.swift */; };
 		4C42EB0420B40F17004FED49 /* UIKit+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C42EB0320B40F17004FED49 /* UIKit+Extensions.swift */; };
 		4C42EB0620B40FEA004FED49 /* QuartzCore+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C42EB0520B40FEA004FED49 /* QuartzCore+Extension.swift */; };
+		4C6A9FDB20B8183C003B5DE2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4C6A9FDA20B8183C003B5DE2 /* README.md */; };
 		4CBC364720B5120E0025CEAB /* ReactiveCocoaQuoteOfTheDayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CBC364620B5120E0025CEAB /* ReactiveCocoaQuoteOfTheDayViewController.swift */; };
 		4CBC364920B5121A0025CEAB /* QuoteOfTheDayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CBC364820B5121A0025CEAB /* QuoteOfTheDayViewController.swift */; };
 		4CBC364B20B51B760025CEAB /* ReactiveCocoaQuoteOfTheDayViewControllerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CBC364A20B51B760025CEAB /* ReactiveCocoaQuoteOfTheDayViewControllerViewModel.swift */; };
@@ -57,6 +58,7 @@
 		4C42EB0120B40900004FED49 /* LoginResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginResultViewController.swift; sourceTree = "<group>"; };
 		4C42EB0320B40F17004FED49 /* UIKit+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIKit+Extensions.swift"; sourceTree = "<group>"; };
 		4C42EB0520B40FEA004FED49 /* QuartzCore+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "QuartzCore+Extension.swift"; sourceTree = "<group>"; };
+		4C6A9FDA20B8183C003B5DE2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		4CBC364620B5120E0025CEAB /* ReactiveCocoaQuoteOfTheDayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReactiveCocoaQuoteOfTheDayViewController.swift; sourceTree = "<group>"; };
 		4CBC364820B5121A0025CEAB /* QuoteOfTheDayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteOfTheDayViewController.swift; sourceTree = "<group>"; };
 		4CBC364A20B51B760025CEAB /* ReactiveCocoaQuoteOfTheDayViewControllerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReactiveCocoaQuoteOfTheDayViewControllerViewModel.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				4C05A4BE20B3F47D00A124B1 /* LaunchScreen.storyboard */,
 				4C42EB0320B40F17004FED49 /* UIKit+Extensions.swift */,
 				4C42EB0520B40FEA004FED49 /* QuartzCore+Extension.swift */,
+				4C6A9FDA20B8183C003B5DE2 /* README.md */,
 				4C05A4C120B3F47D00A124B1 /* Info.plist */,
 				4C42EAF520B3FB07004FED49 /* ReactiveCocoa.framework */,
 				4C42EAF620B3FB07004FED49 /* ReactiveMapKit.framework */,
@@ -201,6 +204,7 @@
 			files = (
 				4C05A4C020B3F47D00A124B1 /* LaunchScreen.storyboard in Resources */,
 				4C05A4BD20B3F47D00A124B1 /* Assets.xcassets in Resources */,
+				4C6A9FDB20B8183C003B5DE2 /* README.md in Resources */,
 				4C05A4BB20B3F47D00A124B1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
